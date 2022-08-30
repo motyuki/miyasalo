@@ -1,0 +1,182 @@
+.header-right ul{
+  list-style: none;
+  display:flex;
+  gap:20px;
+  
+  
+}
+.header-right li{
+  
+}
+.header-right{
+  float:right;
+  padding-right: 30px;
+ 
+}
+header{
+  background-color: pink;
+  opacity:0.4;
+  height: 70px;
+  
+  
+}
+
+.header-left{
+  font-size: 40px;
+  float: left;
+  padding:10px 10px;
+
+}
+
+
+.top-wrapper{
+  width: 100%;
+  
+  background-image:url(../assets/img/girl.webp);
+  background-size: cover;
+}
+.bbb{
+  margin:0;
+}
+.top-wrapper p{
+  text-align: center;
+  color: aliceblue;
+  font-size: 70px;
+  padding:30px 30px;
+
+}
+.article{
+  height:400px;
+  width:100%;
+  }
+.middle-wrapper{
+  width:1000px;
+  margin:0 auto;
+}
+.middle-name{
+  text-align: center;
+  font-size: 40px;
+  color: plum;
+  padding-top: 30px;
+}
+.left-article{
+  float:left;
+  padding-top: 70px;
+  color:plum;
+}
+.right-image{
+  float:right;
+}
+.contents-item{
+ 
+  background-image:url(https://thumb.ac-illust.com/6b/6ba9b590b75bd79f31abb6252335ee5b_t.jpeg) ;
+  margin-top:20px;
+}
+.beauty{
+  text-align:center;
+  font-size: 40px;
+  color: plum;
+  margin-top: 100px;
+  margin-bottom: 0;
+  padding-top: 50px;
+}
+.contents-list{
+  width:1300px;
+  margin: 0 auto;
+  display:flex;
+  gap:20px;
+  padding-top:30px;
+}
+.item-logo{
+  
+  font-size: 40px;
+  color: plum;
+  padding-top: 30px;
+}
+
+.item{
+  width:40%;
+  text-align: center;
+  
+}
+.item p{
+  font-size: 15px;
+}
+
+.item img {
+  width: 200px;
+  height: 200px;
+  padding-top: 30px;
+}
+
+.item p1{
+  border:2px solid white;
+  font-size:25px;
+  margin:30px;
+  padding:10px;
+  color:#e6beaa;
+}
+.item h1{
+  font-size: 25px;
+  color: #dcc8dc;
+
+}
+.about{
+  width:1300px;
+  height:500px;
+}
+.nameme{
+  text-align: center;
+  font-size: 50px;
+  margin-top:30px;
+  color:plum;
+  
+}
+
+.cup{
+  margin: 0 auto;
+  width:1000px;
+  display: flex;
+  
+  
+}
+.asideb{
+  float:left;
+  width:500px;
+
+}
+.flower{
+  height:350px;
+  width:350px;
+ 
+}
+.articleb{
+  float:right;
+  display: flex;
+  margin-right:0px;
+  margin-left:60px;
+}
+
+
+.articleb p{
+  font-size: 30px;
+}
+.jap{
+  margin-left:60px;
+}
+footer{
+  height:60px;
+  background-color: #e5b7be;
+  margin-bottom: 0px;
+  
+}
+.footerlogo{
+  text-align: center;
+  font-size: 25px;
+  font-family: Times;
+  padding:10px;
+  margin-bottom:0px;
+}
+body{
+  margin:0;
+}
